@@ -1,4 +1,7 @@
 # Projet Learn@Home
+<div align="center">
+<img src="Assets/logo.png" alt="Icône Figma"/>
+</div>
 
 ## À propos du projet
 
