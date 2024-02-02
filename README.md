@@ -18,9 +18,7 @@ Learn@Home est une association qui met en relation des enfants en difficulté sc
 
 
 ## Outils utilisés
-<img src="Assets/figma.png" alt="Icône Figma" width="100" />
-<img src="Assets/trello.png" alt="Icône Trello" width="100" />
-<img src="Assets/drawio.png" alt="Icône Trello" width="100" />
+<img src="Assets/figma.png" alt="Icône Figma" width="100" /> <img src="Assets/trello.png" alt="Icône Trello" width="100" /> <img src="Assets/drawio.png" alt="Icône Trello" width="100" />
 
 
 
