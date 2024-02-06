@@ -9,6 +9,9 @@ Learn@Home est une association qui met en relation des enfants en difficulté sc
 
 ## Fonctionnalités Principales
 
+<img src="Assets/laptop.png" alt="desktop presentation" width="500" /> <img src="Assets/smartphone.png" alt="Icône Trello" width="500" /> 
+
+
 - **Connexion :** Authentification des utilisateurs, récupération de mot de passe perdu.
 - **Inscription :** Formulaire d'inscription pour les élèves et les tuteurs.
 - **Tableau de bord :** Vue d'ensemble du site. Possibilité de visualiser les tâches événements les plus importants. Affichage des notifications pour les nouveaux messages.
@@ -25,5 +28,3 @@ Learn@Home est une association qui met en relation des enfants en difficulté sc
 ## Livrables
 
 [Lien maquette Figma](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FW5nTWKdH5TvvFcHitWTMYP%2FLearn%2540Home%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DywbkJ3ZubaVwzSBc-1)
-
-
